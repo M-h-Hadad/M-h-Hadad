@@ -1,16 +1,59 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58bc5b&section=header" />
+<h1 align="center">
+  Hi, Nice to meet you.
+</h1>
+<h4 align="center">HOPE YOU AND YOUR LOVED ONES HAPPY</h4>
 
-<!--
-**M-h-Hadad/M-h-Hadad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://s8.uupload.ir/files/divider1_qqkc.png" alt="divider"/>
+</div> 
 
-Here are some ideas to get you started:
+### Software:
+[![My Skills](https://skillicons.dev/icons?i=python,powershell,selenium,vhdl)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Tools & Programs:
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,regex)](https://skillicons.dev)
+
+
+
+
+<div align="center">
+  <img src="https://s8.uupload.ir/files/divider2_8un5.png"/>
+</div> 
+
+<div align="center">  
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MostafaSalmanian&show_icons=true&count_private=true&hide_border=true&title_color=CAF0F8&icon_color=CAF0F8&text_color=ecf4ff&bg_color=000025" alt="jedeias github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MostafaSalmanian&show_icons=true&count_private=true&hide_border=true&title_color=CAF0F8&icon_color=CAF0F8&text_color=ecf4ff&bg_color=000025" alt="jedeias github stats" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaSalmanian&layout=compact&hide_border=true&title_color=CAF0F8&text_color=CAF0F8&bg_color=000025" />
+</div>
+
+<div align="center">
+  <img src="https://s8.uupload.ir/files/divider2_8un5.png"/>
+</div> 
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MostafaSalmanian&theme=react-dark&title_color=CAF0F8&color=58bc5b&bg_color=000025&hide_border=true&area=true&line=CAF0F8&point=1ec7a8)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MostafaSalmanian&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">
+  <img src="https://s8.uupload.ir/files/divider1_qqkc.png" alt="divider"/>
+</div> 
+
+ <p align="center">
+  <a href="https://www.linkedin.com/inmohammad-hassan-hadadpour-33123622a" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:m.h.hadadpour@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/IKHgAPguvKf1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/M_h_Hadadpour" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58bc5b&height=120&section=footer"/>
